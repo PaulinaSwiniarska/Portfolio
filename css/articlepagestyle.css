@@ -19,7 +19,7 @@ body{
 
  
 .top-header > h1 { 
-	color: rgb(221, 119, 166); 
+	color: rgb(155, 15, 80); 
 	margin: 0;
 	padding: 2em 1em; 
 	font-family: sans-serif; 
@@ -110,7 +110,7 @@ div#footer{
 
 .main-nav a {
     text-decoration: none;
-    color: rgb(248, 167, 205);
+    color: rgb(143, 16, 75);
     font-size: 30px;
 }
 
